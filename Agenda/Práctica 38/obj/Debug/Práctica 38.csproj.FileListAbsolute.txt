@@ -1,0 +1,21 @@
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\bin\Debug\Práctica 38.exe.config
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\bin\Debug\Práctica 38.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\bin\Debug\Práctica 38.pdb
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\obj\Debug\Práctica 38.csprojResolveAssemblyReference.cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\obj\Debug\Práctica_38.Base_de_datos.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\obj\Debug\Práctica_38.Form1.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\obj\Debug\Práctica_38.Properties.Resources.resources
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\obj\Debug\Práctica 38.csproj.GenerateResource.Cache
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\obj\Debug\Práctica 38.exe
+C:\Users\auren\OneDrive\Documentos\Visual Studio 2017\Projects\Práctica 38\Práctica 38\obj\Debug\Práctica 38.pdb
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\bin\Debug\Práctica 38.exe.config
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\bin\Debug\Práctica 38.exe
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\bin\Debug\Práctica 38.pdb
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica 38.csprojAssemblyReference.cache
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica_38.Base_de_datos.resources
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica_38.Form1.resources
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica_38.Properties.Resources.resources
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica 38.csproj.GenerateResource.cache
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica 38.csproj.CoreCompileInputs.cache
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica 38.exe
+C:\Users\gomez\Documents\Práctica 38\Práctica 38\obj\Debug\Práctica 38.pdb
